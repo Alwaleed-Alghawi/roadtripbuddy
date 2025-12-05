@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754990242091",
+    "project_id": "roadtripprojectdb",
+    "storage_bucket": "roadtripprojectdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754990242091:android:da9c75f22d868f2c3d4d6e",
+        "android_client_info": {
+          "package_name": "com.example.roadtripbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8D16mSUf0l5ZRxKvb0ImGumNzbZlBcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
